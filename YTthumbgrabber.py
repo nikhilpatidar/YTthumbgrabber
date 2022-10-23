@@ -30,7 +30,7 @@ banner = render("youtube thumbnail downloader", font='chrome',colors=["green","g
 print(banner)
 
 #instructions menu
-print(smb.DONE + fontcolor.green("USAGE INSTRUCTIONS :"))
+print(smb.DONE + fontcolor.green("USAGE instruction :"))
 print(smb.ONE + fontcolor.white("Paste YouTube Video Link"))
 print(smb.TWO + fontcolor.white("Select Desired Resolution"))
 
